@@ -27,12 +27,12 @@ train.csv + test.csv
   (class balance, nulls, crosstabs by CryoSleep / HomePlanet / VIP / Deck)
         ↓
   Feature engineering
-  (12 new features — see table below)
+  (12 new features - see table below)
         ↓
   Preprocessing
   (categorical NaN → "Missing", numeric NaN → train median)
         ↓
-  CatBoost — 5-Fold stratified CV
+  CatBoost - 5-Fold stratified CV
         ↓
   Final model trained on full train set
         ↓
