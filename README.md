@@ -117,7 +117,7 @@ This notebook was built on Kaggle. To run it locally:
 kaggle competitions download -c spaceship-titanic
 ```
 
-Or download manually from the [competition page](https://www.kaggle.com/competitions/spaceship-titanic/data).
+Or download manually from the [competition page](https://www.kaggle.com/code/aisultanzhakupbaev/spaceship-2).
 
 ### 2. Install dependencies
 
