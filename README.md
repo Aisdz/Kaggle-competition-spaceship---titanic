@@ -137,6 +137,6 @@ jupyter notebook spaceship-2.ipynb
 
 ```
 ├── spaceship-2.ipynb    # Full pipeline: EDA → features → model → submission
-├── submission.csv       # Generated predictions
+├── submission-2.csv       # Generated predictions
 └── README.md
 ```
